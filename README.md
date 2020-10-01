@@ -1,4 +1,4 @@
-# Aries Basic Controller Python
+# Aries Basic Controller Python. 
 
 A simple pip installable package for controlling aries agents through admin API calls.
 
